@@ -2,7 +2,15 @@
 
 Welcome to my SQL Analytics Portfolio.
 
-This repository showcases SQL projects focused on data analysis, reporting, and business intelligence solutions.
+## 🎯 Portfolio Focus
+
+This portfolio demonstrates:
+
+- SQL for business intelligence & analytics
+- Data cleaning and transformation workflows
+- Revenue and profitability analysis
+- Customer segmentation logic
+- Query optimization techniques
 
 ---
 
@@ -17,8 +25,10 @@ This repository showcases SQL projects focused on data analysis, reporting, and 
 
 ## 🛠 Tools & Skills
 
+- PostgreSQL
 - SQL
-- PostgreSQL / MySQL
+- Git & Github
+- CSV datasets
 - Data Analysis
 - Database Query Optimization
 
