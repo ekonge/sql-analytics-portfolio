@@ -8,10 +8,10 @@ This repository showcases SQL projects focused on data analysis, reporting, and 
 
 ## 📊 Projects
 
-- Sales Analysis
-- Customer Segmentation
-- Revenue Performance Analysis
-- Data Cleaning & Transformation
+- Sales Performance & Profitability Analysis  
+- Customer Segmentation Using SQL  
+- Revenue Growth & Trend Analysis  
+- Data Cleaning & Transformation Using SQL  
 
 ---
 
